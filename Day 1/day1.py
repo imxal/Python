@@ -18,8 +18,8 @@ print(5.5 / 0.5)
 print(3 ** 2)  
 
 # modulus(%) vs /
-print(5 % 2) 
-print(5 / 2) 
+print(5 % 2)  #=>1
+print(5 / 2)  #=>2.5
 
 
 # Floor division operator(//)
